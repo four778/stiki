@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/stiki/static/css/main.981f7211.chunk.css",
-    "main.js": "/stiki/static/js/main.4a6557d9.chunk.js",
-    "main.js.map": "/stiki/static/js/main.4a6557d9.chunk.js.map",
+    "main.js": "/stiki/static/js/main.37949b1b.chunk.js",
+    "main.js.map": "/stiki/static/js/main.37949b1b.chunk.js.map",
     "runtime-main.js": "/stiki/static/js/runtime-main.ef592aba.js",
     "runtime-main.js.map": "/stiki/static/js/runtime-main.ef592aba.js.map",
     "static/css/2.86df01db.chunk.css": "/stiki/static/css/2.86df01db.chunk.css",
     "static/js/2.80b65f9d.chunk.js": "/stiki/static/js/2.80b65f9d.chunk.js",
     "static/js/2.80b65f9d.chunk.js.map": "/stiki/static/js/2.80b65f9d.chunk.js.map",
     "index.html": "/stiki/index.html",
-    "precache-manifest.9e69a00f146a8825c2e49ee66713ce10.js": "/stiki/precache-manifest.9e69a00f146a8825c2e49ee66713ce10.js",
+    "precache-manifest.0e04c1fc5f4d77ef174550e767af0bd4.js": "/stiki/precache-manifest.0e04c1fc5f4d77ef174550e767af0bd4.js",
     "service-worker.js": "/stiki/service-worker.js",
     "static/css/2.86df01db.chunk.css.map": "/stiki/static/css/2.86df01db.chunk.css.map",
     "static/css/main.981f7211.chunk.css.map": "/stiki/static/css/main.981f7211.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.86df01db.chunk.css",
     "static/js/2.80b65f9d.chunk.js",
     "static/css/main.981f7211.chunk.css",
-    "static/js/main.4a6557d9.chunk.js"
+    "static/js/main.37949b1b.chunk.js"
   ]
 }

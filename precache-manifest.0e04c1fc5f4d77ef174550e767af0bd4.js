@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8a2d3053a934ab75630993c4313c475e",
+    "revision": "2f7372e6f335fb863e048b61e2726492",
     "url": "/stiki/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stiki/static/css/2.86df01db.chunk.css"
   },
   {
-    "revision": "526a69c949f9fe27dea9",
+    "revision": "dfe4465c8bbfba9cc6f4",
     "url": "/stiki/static/css/main.981f7211.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stiki/static/js/2.80b65f9d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "526a69c949f9fe27dea9",
-    "url": "/stiki/static/js/main.4a6557d9.chunk.js"
+    "revision": "dfe4465c8bbfba9cc6f4",
+    "url": "/stiki/static/js/main.37949b1b.chunk.js"
   },
   {
     "revision": "79035b8ad69a4d3f0cf9",
